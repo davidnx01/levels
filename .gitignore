@@ -1,0 +1,7 @@
+# interné poznámky a pracovné súbory ostávajú len lokálne
+BRIEF*.md
+DATA.md
+.DS_Store
+*.bak
+.*.bak
+Claude outputs/
